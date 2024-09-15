@@ -2,6 +2,6 @@ body{
 font-family: 'Fascinate Inline';
 }
 .header {
-background-image: (kartinka/trava.jpg);
-background-size
+background-image: url(kartinka/trava.jpg);
+background-size: cover;
 }
