@@ -5,3 +5,8 @@ font-family: 'Fascinate Inline';
 background-image: url(kartinka/trava.jpg);
 background-size: cover;
 }
+
+    .name {
+        text-transform: uppercase;
+    }
+
