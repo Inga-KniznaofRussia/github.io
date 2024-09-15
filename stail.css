@@ -9,4 +9,26 @@ background-size: cover;
     .name {
         text-transform: uppercase;
     }
+    .main-menu {
+        font-size: 30px;
+        font-weight: bold;
+        padding: 30px 0;
+
+
+
+    }
+
+.main-menu a{
+    color:red;
+    text-decoration: none;
+}
+
+.main-menu a:hover {
+    color: yellow;
+    transition: 10s;
+}
+
+
+
+
 
